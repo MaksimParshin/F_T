@@ -1,0 +1,15 @@
+C:\Users\Maxim\Desktop\F_T\bin\Debug\net6.0\F_T.exe
+C:\Users\Maxim\Desktop\F_T\bin\Debug\net6.0\F_T.deps.json
+C:\Users\Maxim\Desktop\F_T\bin\Debug\net6.0\F_T.runtimeconfig.json
+C:\Users\Maxim\Desktop\F_T\bin\Debug\net6.0\F_T.dll
+C:\Users\Maxim\Desktop\F_T\bin\Debug\net6.0\F_T.pdb
+C:\Users\Maxim\Desktop\F_T\obj\Debug\net6.0\F_T.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\F_T\obj\Debug\net6.0\F_T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\F_T\obj\Debug\net6.0\F_T.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\F_T\obj\Debug\net6.0\F_T.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\F_T\obj\Debug\net6.0\F_T.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\F_T\obj\Debug\net6.0\F_T.dll
+C:\Users\Maxim\Desktop\F_T\obj\Debug\net6.0\refint\F_T.dll
+C:\Users\Maxim\Desktop\F_T\obj\Debug\net6.0\F_T.pdb
+C:\Users\Maxim\Desktop\F_T\obj\Debug\net6.0\F_T.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\F_T\obj\Debug\net6.0\ref\F_T.dll
